@@ -67,7 +67,6 @@ public class Game : MonoBehaviour
             return;
 
         PlayerInput();
-        //InputTetroblock();
     }
 
     void PlayerInput()
